@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Harry Potter",
+    "author": "Rowling",
+    "category": "Fantasy",
+    "language": "English",
+    "publicationDate": "1999-01-18T00:00:00",
+    "isbn": "\"978-3-16-148410-0\"",
+    "isTaken": false,
+    "returnDate": null,
+    "id": 0
+  }
+]
